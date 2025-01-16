@@ -43,7 +43,18 @@ TheMovieDB(https://www.themoviedb.org/)
 
 The Numbers (https://www.the-numbers.com/)
 
-# Chcking for colinearity using Heatmap
+# Tools Used:
+- Jupyter notebook - Writing code
+- Tableau - Creating visualizations
+- Github - Collaboration
+
+# Data cleaning/preparation:
+Steps followed:
+  - Data loading and inspection.
+  - Handling missing values.
+  - Data cleaning.
+
+# Checking for colinearity using Heatmap
 ![Image](https://github.com/user-attachments/assets/a71aa4a3-feff-4fe9-b4c5-9548258df73a)
 
 # Comparison of revenue generated in the domestic and foreign markets
